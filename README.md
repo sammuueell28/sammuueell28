@@ -1,4 +1,10 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Samuel Hosana Pelmelay**.<br>
+
+Saya seorang **Mahasiswa** di Universitas Gunadarma.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https:www.linkedin.com/in/samuel-hosana-pelmelay/)ku ya.
 
 <!--
 **sammuueell28/sammuueell28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
